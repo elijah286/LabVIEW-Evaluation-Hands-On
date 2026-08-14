@@ -1,0 +1,10 @@
+{
+  "repo": "elijah286/LabVIEW-Evaluation-Hands-On",
+  "sha": "d6e76ede57d851db136edb6a9c6a099cfb593ac3",
+  "ref": "refs/heads/main",
+  "platform": "linux",
+  "arch": "x86_64",
+  "labview_version": "2026",
+  "built_at": "2026-08-14T00:20:37Z",
+  "specs": []
+}

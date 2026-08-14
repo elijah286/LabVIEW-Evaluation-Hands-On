@@ -1,0 +1,293 @@
+{
+  "meta": {
+    "sha": "d6e76ede57d851db136edb6a9c6a099cfb593ac3",
+    "short": "d6e76ed",
+    "platform": "windows",
+    "repo": "elijah286/LabVIEW-Evaluation-Hands-On",
+    "pages_url": "https://elijah286.github.io/LabVIEW-Evaluation-Hands-On",
+    "pages_base": "../..",
+    "commit": {
+      "message": "Initial checkin of features after moving",
+      "author": "Norm Kirchner",
+      "date": "2025-07-01T16:22:13-05:00"
+    },
+    "generated_utc": "2026-08-14 00:36 UTC",
+    "analysis_date": "Friday, August 14, 2026 12:36:21 AM",
+    "duration": "00:01:55.30"
+  },
+  "summary": {
+    "vis_analyzed": 49,
+    "tests_run": 5091,
+    "passed": 4686,
+    "failed": 405,
+    "skipped": 0,
+    "findings": 344,
+    "vis_with_findings": 31
+  },
+  "errors": {
+    "vi_not_loadable": 0,
+    "test_not_loadable": 0,
+    "test_not_runnable": 0,
+    "test_error_out": 5
+  },
+  "rule_counts": [
+    {
+      "test": "VI Documentation",
+      "severity": "documentation",
+      "count": 31,
+      "vi_count": 31
+    },
+    {
+      "test": "Enabled Debugging",
+      "severity": "performance",
+      "count": 29,
+      "vi_count": 29
+    },
+    {
+      "test": "Error Cluster Wired",
+      "severity": "correctness",
+      "count": 29,
+      "vi_count": 13
+    },
+    {
+      "test": "Default Icon",
+      "severity": "style",
+      "count": 26,
+      "vi_count": 26
+    },
+    {
+      "test": "Panel Size and Position",
+      "severity": "style",
+      "count": 23,
+      "vi_count": 15
+    },
+    {
+      "test": "Auto Error Handling Enabled",
+      "severity": "correctness",
+      "count": 20,
+      "vi_count": 20
+    },
+    {
+      "test": "Spell Check",
+      "severity": "documentation",
+      "count": 19,
+      "vi_count": 13
+    },
+    {
+      "test": "Comment Usage",
+      "severity": "documentation",
+      "count": 15,
+      "vi_count": 15
+    },
+    {
+      "test": "Diagram Size",
+      "severity": "style",
+      "count": 14,
+      "vi_count": 14
+    },
+    {
+      "test": "Unused Code",
+      "severity": "performance",
+      "count": 14,
+      "vi_count": 8
+    },
+    {
+      "test": "Platform Portability",
+      "severity": "style",
+      "count": 11,
+      "vi_count": 5
+    },
+    {
+      "test": "Broken VI",
+      "severity": "correctness",
+      "count": 10,
+      "vi_count": 10
+    },
+    {
+      "test": "Wire Bends",
+      "severity": "style",
+      "count": 10,
+      "vi_count": 7
+    },
+    {
+      "test": "Wires Under Objects",
+      "severity": "style",
+      "count": 10,
+      "vi_count": 6
+    },
+    {
+      "test": "Tunnel Position",
+      "severity": "style",
+      "count": 8,
+      "vi_count": 4
+    },
+    {
+      "test": "Diagram Disable Structures",
+      "severity": "style",
+      "count": 7,
+      "vi_count": 6
+    },
+    {
+      "test": "Font Usage",
+      "severity": "style",
+      "count": 6,
+      "vi_count": 2
+    },
+    {
+      "test": "Parallelizable Loops",
+      "severity": "performance",
+      "count": 6,
+      "vi_count": 4
+    },
+    {
+      "test": "VI Size",
+      "severity": "style",
+      "count": 6,
+      "vi_count": 6
+    },
+    {
+      "test": "Control Terminal Wiring",
+      "severity": "style",
+      "count": 5,
+      "vi_count": 5
+    },
+    {
+      "test": "Array Constant Style",
+      "severity": "style",
+      "count": 4,
+      "vi_count": 3
+    },
+    {
+      "test": "String Constant Style",
+      "severity": "style",
+      "count": 4,
+      "vi_count": 4
+    },
+    {
+      "test": "Array Default Values",
+      "severity": "correctness",
+      "count": 3,
+      "vi_count": 2
+    },
+    {
+      "test": "Backwards Wires",
+      "severity": "style",
+      "count": 3,
+      "vi_count": 3
+    },
+    {
+      "test": "Transparent Labels",
+      "severity": "style",
+      "count": 3,
+      "vi_count": 2
+    },
+    {
+      "test": "Unwired I32 Error",
+      "severity": "style",
+      "count": 3,
+      "vi_count": 3
+    },
+    {
+      "test": "Wait in While Loop",
+      "severity": "correctness",
+      "count": 3,
+      "vi_count": 2
+    },
+    {
+      "test": "Approved Bookmark Tags",
+      "severity": "style",
+      "count": 2,
+      "vi_count": 2
+    },
+    {
+      "test": "Built Application Compatibility",
+      "severity": "correctness",
+      "count": 2,
+      "vi_count": 2
+    },
+    {
+      "test": "Hidden Objects in Structures",
+      "severity": "correctness",
+      "count": 2,
+      "vi_count": 2
+    },
+    {
+      "test": "Modularity Index",
+      "severity": "style",
+      "count": 2,
+      "vi_count": 2
+    },
+    {
+      "test": "Overlapping Controls",
+      "severity": "correctness",
+      "count": 2,
+      "vi_count": 2
+    },
+    {
+      "test": "Pattern Label",
+      "severity": "style",
+      "count": 2,
+      "vi_count": 2
+    },
+    {
+      "test": "Arrays and Strings in Loops",
+      "severity": "performance",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Case Structure Default Frame",
+      "severity": "style",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Connector Pane Pattern",
+      "severity": "style",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Control Alignment",
+      "severity": "style",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Icon Size and Border",
+      "severity": "style",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "In Place Element Structure Usage",
+      "severity": "performance",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Prepend Scalar With Build Array",
+      "severity": "style",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Scalar Chart Updates",
+      "severity": "style",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Synchronous Display",
+      "severity": "style",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Wired Terminals in Subdiagrams",
+      "severity": "correctness",
+      "count": 1,
+      "vi_count": 1
+    }
+  ]
+}

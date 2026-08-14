@@ -1,0 +1,71 @@
+{
+ "meta": {
+  "sha": "d6e76ede57d851db136edb6a9c6a099cfb593ac3",
+  "short": "d6e76ed",
+  "platform": "windows",
+  "repo": "elijah286/LabVIEW-Evaluation-Hands-On",
+  "pages_url": "https://elijah286.github.io/LabVIEW-Evaluation-Hands-On",
+  "snap_base": "https://elijah286.github.io/LabVIEW-Evaluation-Hands-On/vi-snapshots/",
+  "dash_url": "https://elijah286.github.io/LabVIEW-Evaluation-Hands-On/",
+  "labview_version": "2026",
+  "tools": [],
+  "commit": {
+   "message": "Initial checkin of features after moving",
+   "author": "Norm Kirchner",
+   "date": "2025-07-01T16:22:13-05:00"
+  },
+  "generated_utc": "2026-08-14 00:34 UTC"
+ },
+ "summary": {
+  "tests": 0,
+  "passed": 0,
+  "failed": 0,
+  "errored": 0,
+  "skipped": 0,
+  "percent": 0,
+  "status": "empty",
+  "duration": 0.0
+ },
+ "status_order": [
+  "failed",
+  "error",
+  "skipped",
+  "passed"
+ ],
+ "status_meta": {
+  "failed": {
+   "label": "Failed",
+   "color": "#da3633",
+   "blurb": "An assertion failed."
+  },
+  "error": {
+   "label": "Errored",
+   "color": "#bb8009",
+   "blurb": "The test raised an unexpected error."
+  },
+  "skipped": {
+   "label": "Skipped",
+   "color": "#6e7681",
+   "blurb": "The test was skipped."
+  },
+  "passed": {
+   "label": "Passed",
+   "color": "#2ea043",
+   "blurb": "The test passed."
+  }
+ },
+ "platforms": [
+  {
+   "id": "windows",
+   "url": null
+  },
+  {
+   "id": "linux",
+   "url": "linux/results.json"
+  }
+ ],
+ "suites": [],
+ "tooling": {
+  "missing": []
+ }
+}

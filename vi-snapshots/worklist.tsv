@@ -1,0 +1,31 @@
+c287b76b91ef58978b78fb838561e70313f33b60	Evaluate LabVIEW/00 - Calling Python Simple.vi
+5045c486558b93017279ef305a55affd974b772c	Evaluate LabVIEW/00 - Calling Python.vi
+318406d962e3c5fd921cd5d964e8ffe12e548bb1	Evaluate LabVIEW/00 - DAQmx IO.vi
+65f2eece17e1cb0a19e9c295438f1ce87e60cdf2	Evaluate LabVIEW/00 - Simple Debugging.vi
+4ae3090b790864001447168eda29dd807321e63f	Evaluate LabVIEW/00 - Simplest Data File Connection.vi
+0e41fff2c2edf4592bc77e9f261fd86dc093dead	Evaluate LabVIEW/00 - Simplest VI.vi
+a48a0d1796ab23317e2e270c5a31eca8577292a0	Evaluate LabVIEW/00 - VISA GPIB TCPIP Serial USB.vi
+1e7191a71b49b4eac1945ee56dafb34cdce08a9a	Evaluate LabVIEW/01 - Calling NET Simple.vi
+8ea6cd241242e074d0ddd0ec9283caec07363114	Evaluate LabVIEW/01 - Calling NET.vi
+8f6262e7dfe1d0aa8b6ee22a8e4a0005c05d136c	Evaluate LabVIEW/01 - Custom Debugging.vi
+916e7d23f6a599f7dba7674f8a45d08d75a003a8	Evaluate LabVIEW/01 - PXI Modular Instruments.vi
+3300f845e3b119b00b5090a13f0822c543553c78	Evaluate LabVIEW/01 - Simple Data Network Connection.vi
+8628cc92628d5899630ed4a9e997120eb251650c	Evaluate LabVIEW/01 - Simple UI.vi
+e02fc386d9f88491f9894187d27ec2bcda269253	Evaluate LabVIEW/02 -  Clever Debugging.vi
+0e134d2f03d39cf6ad009007fe8814d22c6b2fcb	Evaluate LabVIEW/02 - 3rd Party Drivers.vi
+e390cc3694dfa3b35ad8e9655e7c219a265e5aa4	Evaluate LabVIEW/02 - Calling C Cpp and CLI.vi
+d4eefa46df7686d9d12aa0b13e06942d0433ac2e	Evaluate LabVIEW/02 - Simple Connection to Serial COM.vi
+4ff839ba156d143baefad81f5b1347662155478a	Evaluate LabVIEW/02 - Simple but flashy UI.vi
+16405910abb1f424755b5133c79075d4ea0b0c54	Evaluate LabVIEW/03 - Calling MATLAB.vi
+3d850b9deef51d47e2a9c6fdf1334a55154ef0ef	Evaluate LabVIEW/03 - Exceedingly Impressive LV UI.vi
+0ce21273fa0bb7b1929a13ad91396553fca5b1ce	Evaluate LabVIEW/03 - Simple HTTP Data Connection.vi
+c550427dfe9199abcca5100b059bc48318549d1e	Evaluate LabVIEW/04 - Exceedingly Impressive Data Connections.vi
+b32e083d8cb082a29266b5fb7645059d85cb90f5	Evaluate LabVIEW/04 - Exceedingly Impressive Multi-Language Interaction.vi
+02cdc6e5c304dc09629ddcac82e38370279c041e	Evaluate LabVIEW/Euler 001.vi
+c3c045a57f609c47e0817d12ebcbeaa84417dd3f	Evaluate LabVIEW/Euler 002.vi
+f265ea11ff299b7a7bbbff9580d18687ea6c1f46	Evaluate LabVIEW/Euler 003.vi
+9881c5bfc184eb8514f0aba6ab110b7b170befdd	Evaluate LabVIEW/Euler 004.vi
+42055b71705f60dfcf54270926d81d8a69cb465a	Evaluate LabVIEW/NETCallback FileWatcher Broadcast.vi
+c7772903eb3876677730e4699b757b023ae812e1	Evaluate LabVIEW/NETCallback FileWatcher Simple.vi
+d606def8b0ee37fd4909b3a8decc9434f254c65d	Evaluate LabVIEW/Probes/Colormap from tuple array.vi
+e8b14c81a9ee489ada3799e7ca6a5dd874d2c9e7	Evaluate LabVIEW/WebVideoGuide.vi
